@@ -16,3 +16,7 @@ pip uninstall -y transformers accelerate
 pip install transformers accelerate
 
 logging
+utils/common
+
+pip install ipykernel
+
